@@ -1,25 +1,21 @@
-![OpenSearch Project](OpenSearch.svg)
+# Eliatra OpenSearch Enterprise Distro (EOED) - Long Term Support for OpenSearch
 
-# Search Relevance Tools
-[![Build Search Relevance Plugin](https://github.com/opensearch-project/dashboards-search-relevance/actions/workflows/test-and-build.yml/badge.svg)](https://github.com/opensearch-project/dashboards-search-relevance/actions/workflows/test-and-build.yml)
-[![Link Checker](https://github.com/opensearch-project/dashboards-search-relevance/actions/workflows/link-checker.yml/badge.svg?branch=main)](https://github.com/opensearch-project/dashboards-search-relevance/actions/workflows/link-checker.yml)
-[![codecov](https://codecov.io/gh/opensearch-project/dashboards-search-relevance/branch/main/graph/badge.svg?token=PYQO2GW39S)](https://codecov.io/gh/opensearch-project/dashboards-search-relevance)
+This repository is part of the Eliatra OpenSearch Enterprise Distro (EOED).
 
+## Questions?
 
-## Summary
-In search applications, tuning relevance is a constant, iterative exercise to bring the right search results to your end users. The tooling in this repository aims to help the search relevance engineer and business user create the best search experience possible for application users without hiding internals from engineers who want to go deep into the details.
+Please refer to https://eliatra.com/opensearch-enterprise-distro or ask your questions in our [Forum](https://forum.eliatra.com).
 
-# Projects
-## Search Comparison UI
-The first release in this plugin includes an experimental feature to allow users to enter a plain text search query, substitute that query into two different QueryDSLs and compare the results side by side.
+## License
 
-# Security
-See [SECURITY](SECURITY.md) for more information.
+This project is licensed under a [commercial License](LICENSE.txt).
 
-# Contributing
-See [CONTRIBUTING](CONTRIBUTING.md) for more information.
+## Copyright
 
-# License
+Copyright Eliatra. See [NOTICE](NOTICE.txt) for details.
 
-This project is licensed under the Apache-2.0 License.
+## Trademark
 
+OpenSearch is a registered trademark of Amazon Web Services.
+
+OpenSearch includes certain Apache-licensed Elasticsearch code from Elasticsearch B.V. and other source code. Elasticsearch B.V. is not the source of that other source code. ELASTICSEARCH is a registered trademark of Elasticsearch B.V.
